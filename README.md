@@ -21,4 +21,5 @@ matplotlib==3.7.1
 
 
 ### 使用步骤
-运行draw.py，获得对比图image.jpg
+运行draw.py，获得对比图image.jpg 。随机种子设为0、迭代100次后结果如下
+![image](image.jpg)
